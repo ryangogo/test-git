@@ -6,7 +6,7 @@ package com.ryan;
 public class TestImportToGit {
 
     public void getTestMethod(){
-
+        System.out.println("master");
     }
 
 }
